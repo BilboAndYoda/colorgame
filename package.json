@@ -1,15 +1,15 @@
 {
   "name": "colorgame",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.4.0"
+  },
   "description": "a game from Colt Steeles web dev bootcamp to practive dom interaction",
   "main": "index.js",
   "dependencies": {
     "express": "^4.16.2"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BilboAndYoda/colorgame.git"
