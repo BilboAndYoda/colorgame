@@ -2,7 +2,8 @@
   "name": "colorgame",
   "version": "1.0.0",
   "engines": {
-    "node": "8.4.0"
+    "node": "8.4.0",
+    "npm": "5.3.0",
   },
   "description": "a game from Colt Steeles web dev bootcamp to practive dom interaction",
   "main": "index.js",
